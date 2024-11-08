@@ -1,17 +1,13 @@
-👋 Hi, I’m @Marcos-d2
-
-👀 I’m interested in data science, AI, and metadata projects.
-
-🌱 I’m currently learning data science and system development analysis, but I’ve fallen in love with the field of data.
-
-💞️ I’m looking to collaborate on AI development or metadata projects.
-
-📫 How to reach me: Marcosoliveiira121@outlook.com | +55 51 82907984
-
-🎯 Goal: My goal is to become one of the best in the data field, and one day have the opportunity to study with Nando De Freitas, learning from him to reach the top of my field
-
-⚡ Fun fact: I’m actually trained in mechatronics and know a lot about that field, but I decided to switch careers because I fell in love with data.
-<!---
-Marcos-d2/Marcos-d2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->  
+ ### 📊 Dados.
+ <div>
+   <a href="https://github.com/Luis-Vinicius-Severo">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-d2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-d2&layout=compact&langs_count=6&theme=radical&locale=pt-br"/>
+</div>
+<h2>Redes socias:</h2>
+ 
+<div> 
+  <a href="https://www.instagram.com/marcx_ol?igsh=c24xdWR2ejJsdThh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "Marcosoliveiira121@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mfmarcos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
