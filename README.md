@@ -1,3 +1,14 @@
+# Clone o repositório do perfil
+git clone https://github.com/Marcos-d2/Marcos-d2.git
+cd Marcos-d2
+
+# Substitua o README.md existente
+# Copie todo o código do novo perfil para README.md
+
+# Faça commit e push
+git add README.md
+git commit -m "✨ Atualização completa do perfil GitHub"
+git push origin main
 <div align="center">
 
 # 🚀 Marcos Oliveira 
